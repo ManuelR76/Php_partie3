@@ -7,7 +7,7 @@
     <body>
         <?php
         $number = 1;
-        while ($number1 <= 15){
+        while ($number != 15){
             echo 'On y arrive presque.' . '<br>';
         $number ++;
         }

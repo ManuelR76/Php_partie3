@@ -6,10 +6,10 @@
     </head>
     <body>
         <?php
-        $number = 1;
-        while ($number1 <= 15){
+        $number = 20;
+        while ($number != 0){
             echo 'On y arrive presque.' . '<br>';
-        $number ++;
+        $number --;
         }
         ?>
     </body>

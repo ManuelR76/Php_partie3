@@ -7,8 +7,8 @@
     <body>
         <?php
         $number = 1;
-        while ($number1 <= 10){
-            echo $number1 . '<br>';
+        while ($number <= 10){
+            echo $number . '<br>';
         $number += $number/2;
         }
         ?>
